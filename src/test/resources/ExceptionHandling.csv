@@ -1,0 +1,3 @@
+input,expected
+"aa:bb", "Given input is not a valid time"
+"104:1000", "Given input is not a valid time"

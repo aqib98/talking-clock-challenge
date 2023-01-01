@@ -1,0 +1,16 @@
+input,expected
+"12:00", "Twelve o'clock",
+"01:00", "One o'clock",
+"02:00", "Two o'clock",
+"13:00", "One o'clock",
+"13:05", "Five past one",
+"13:10", "Ten past one",
+"13:20", "Twenty past one",
+"13:25", "Twenty five past one",
+"13:30", "Half past one",
+"13:35", "Twenty five to two",
+"13:55", "Five to two",
+"16:30", "Half past four",
+"14:27", "Twenty seven past two",
+"14:33", "Twenty seven to three",
+"23:49", "Eleven to twelve"
